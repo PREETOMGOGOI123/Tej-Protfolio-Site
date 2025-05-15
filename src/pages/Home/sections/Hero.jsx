@@ -13,7 +13,7 @@ function Hero() {
             loop
             playsInline
         />
-        <div className='absolute left-0 top-1/2 w-[61.8rem] h-[25.5rem] pl-[10rem] py-[4.2rem] bg-white/60 backdrop-blur-4xl rounded-xl flex flex-col justify-between items-start'>
+        <div className='absolute left-0 top-1/2 w-[61.8rem] h-[25.5rem] pl-[10rem] py-[4.2rem] bg-white/80 backdrop-blur-4xl rounded-xl flex flex-col justify-between items-start'>
           <p className='text-small'>Cats rule the internet, and they're also one of the most Googled animals. I work on Google Search, so in a way, I help people find what truly matters: cat videos."</p>
           <button 
             type='button' 
